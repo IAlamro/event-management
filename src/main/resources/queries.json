@@ -1,0 +1,12 @@
+{
+  "queries":[
+    {
+      "name": "CREATE_EVENT",
+      "classPath": "com.stc.ems.services.events.create.EventCreationService"
+    },
+    {
+      "name": "DELETE_EVENT",
+      "classPath": "com.stc.ems.services.events.delete.EventsDeletionService"
+    }
+  ]
+}
